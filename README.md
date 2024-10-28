@@ -1,35 +1,50 @@
-### Ola ! Eu sou o Lucas Oliveira 👨‍🎓
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000cff&height=120&section=header"/>
 
+<img src="https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+Lucas+Oliveira;I'm+24+years+old;I+am+from+Capão+Bonito,+SP;+Welcome!+:%29" alt="Typing SVG">
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Lks-lukas)  
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Lks-lukas&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Lks-lukas github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lks-lukas&layout=compact&hide_border=true&title_color=fffff0&text_color=fffff0&bg_color=0d1117" />
+</div>
 
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Lks-lukas&bg_color=2a2a81&color=fffff0&line=808080&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lukas-oliveira-4b2827211/)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Lks-lukas&theme=dark&row=2&no-bg=false&column=3&margin-w=15&margin-h=15" />
+</p>
 
-## Aprendendo sobre >
+<div align="center">  
+  <a href="https://www.instagram.com/lucasx_oliveiraa/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black">
+  </a>
+</div> 
 
-<br>
+### Main skills:
+<!-- Badge para .NET -->
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-0d1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0d1117)&nbsp;
+ 
+### Tools:
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0d1117?style=for-the-badge&logo=git&labelColor=0d1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0d1117?style=for-the-badge&logo=github&labelColor=0d1117)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)&nbsp;
 
-<div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img align="center" alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-</div><br/>
+### Other Knowledge:
+![HTML](https://img.shields.io/badge/-HTML-0d1117?style=for-the-badge&logo=html5&labelColor=0d1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0d1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0d1117)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-0d1117?style=for-the-badge&logo=mysql&labelColor=0d1117)&nbsp;
 
+### Studying in this moment:
+![Node.JS](https://img.shields.io/badge/-Node.JS-0d1117?style=for-the-badge&logo=node.js&labelColor=0d1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0d1117?style=for-the-badge&logo=react&labelColor=0d1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0d1117?style=for-the-badge&logo=javascript&labelColor=0d1117)&nbsp;
 
+<div align="center">
+  <br><p align="center"><b>Visitors Count</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Lks-lukas}/count.svg" /></p> 
+  <br>
+</div>
 
-<br>
-
-
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lks-lukas&theme=tokyonight)
-
-
-
-
-
-
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000cff&height=120&section=footer"/>
