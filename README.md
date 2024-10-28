@@ -38,7 +38,7 @@
 
 ### Studying in this moment:
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0d1117?style=for-the-badge&logo=node.js&labelColor=0d1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0d1117?style=for-the-badge&logo=react&labelColor=0d1117)&nbsp;
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0d1117?style=for-the-badge&logo=javascript&labelColor=0d1117)&nbsp;
 
 <div align="center">
