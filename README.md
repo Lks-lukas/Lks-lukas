@@ -1,11 +1,13 @@
+<div style="display: flex; flex-direction: row; align-items: center; justify-content: center;">
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000cff&height=120&section=header"/>
 
 <img src="https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+Lucas+Oliveira;I'm+24+years+old;I+am+from+Capão+Bonito,+SP;+Welcome!+:%29" alt="Typing SVG">
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Lks-lukas&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Lks-lukas github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lks-lukas&layout=compact&hide_border=true&title_color=fffff0&text_color=fffff0&bg_color=0d1117" />
-</div>
+  <a href="https://github.com/Lks-lukas">
+    <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Lks-lukas&show_icons=true&theme=blue&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lks-lukas&layout=compact&langs_count=7&theme=blue"/>
+  </a>
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Lks-lukas&bg_color=2a2a81&color=fffff0&line=808080&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -48,3 +50,4 @@
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000cff&height=120&section=footer"/>
+</div>
